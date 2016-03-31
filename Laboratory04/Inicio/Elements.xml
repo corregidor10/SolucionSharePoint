@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">  
+  <Field
+       ID="{7a57daaf-892d-4b80-990a-41a7cc7d8fe2}"
+       Name="Inicio"
+       DisplayName="Inicio"
+       Type="DateTime"
+       Format="DateOnly"
+       Required="TRUE"
+       Group="MiApp Site Columns">
+  </Field>
+</Elements>

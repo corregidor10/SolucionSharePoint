@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">  
+  <Field
+       ID="{fbd69e72-81ff-44a1-b797-6b31a16d6b7f}"
+       Name="Fin"
+       DisplayName="Fin"
+       Type="DateTime"
+       Format="DateOnly"
+       Required="TRUE"
+       Group="MiApp Site Columns">
+  </Field>
+</Elements>
